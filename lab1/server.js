@@ -37,7 +37,8 @@ app.use((req, res) => {
     res.status(404).send('404 - Page Not Found');
 });
 
-// Start the Express server on port 3000
-app.listen(3000, () => {
-    console.log('Express server running at http://localhost:3000');
+// Start the Express server on the port assigned by the hosting platform.
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+    console.log(`Express server running on port ${port}`);
 });

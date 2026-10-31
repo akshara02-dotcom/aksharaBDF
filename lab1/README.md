@@ -1,12 +1,13 @@
 # BDF Lab 1 – Node.js and Express Server
 
-**Deployment URL:** https://adepumeghana.onrender.com/
+**Deployment URL:** https://aksharabdf-4.onrender.com/
+
 
 ## Student Details
 
-- **Name:** Akshara
-- **Registration Number:** 252U1R5022
-- **Section:** S-10
+- **Name:** Adepu Meghana
+- **Registration Number:** 252U1R1001
+- **Section:** S-15
 - **Course:** Backend Development Fundamentals
 - **Lab:** Lab 1 – Node.js and Express Server
 
@@ -30,7 +31,7 @@ The Express server provides three routes: `/`, `/about`, and `/time`. It also re
 ## Project Structure
 
 BDF/
-├── lab1/
+├── lab-01/
 │   ├── http-server.js
 │   ├── server.js
 │   ├── package.json
@@ -74,13 +75,13 @@ The `package-lock.json` file records the exact dependency versions used for inst
 1. Clone the GitHub repository:
 
    ```bash
-   git clone https://github.com/adepumeghana7116-eng/AdepuMeghana.git
+   git clone https://github.com/akshara02-dotcom/aksharaBDF
    ```
 
-2. Navigate to the Lab1 folder:
+2. Navigate to the Lab 1 folder:
 
    ```bash
-   cd AdepuMeghana/lab1
+   cd AdepuMeghana/lab-01
    ```
 
 3. Install the required dependencies:
@@ -138,7 +139,7 @@ The following endpoints are provided by the Express server.
 
 The Express application is deployed using Render.
 
-**Public Deployment URL:** https://adepumeghana.onrender.com/
+**Public Deployment URL:** https://aksharabdf-4.onrender.com/
 
 The deployed application can be opened in a web browser. The individual endpoints should also be tested using the public URL.
 

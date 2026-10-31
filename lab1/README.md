@@ -5,9 +5,9 @@
 
 ## Student Details
 
-- **Name:** Adepu Meghana
-- **Registration Number:** 252U1R1001
-- **Section:** S-15
+- **Name:** Akshara
+- **Registration Number:** 252U1R5022
+- **Section:** S-10
 - **Course:** Backend Development Fundamentals
 - **Lab:** Lab 1 – Node.js and Express Server
 
@@ -31,7 +31,7 @@ The Express server provides three routes: `/`, `/about`, and `/time`. It also re
 ## Project Structure
 
 BDF/
-├── lab-01/
+├── lab1/
 │   ├── http-server.js
 │   ├── server.js
 │   ├── package.json
@@ -81,7 +81,7 @@ The `package-lock.json` file records the exact dependency versions used for inst
 2. Navigate to the Lab 1 folder:
 
    ```bash
-   cd AdepuMeghana/lab-01
+   cd Akshara/lab1
    ```
 
 3. Install the required dependencies:
